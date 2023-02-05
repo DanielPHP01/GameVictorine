@@ -1,0 +1,8 @@
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">JavaGame</string>
+    <string name="try_again">Try Again</string>
+    <string name="result">Result</string>
+    <string name="correct_answers_0">Correct answers: 0</string>
+    <string name="incorrect_answers_0">Incorrect answers: 0</string>
+</resources>
